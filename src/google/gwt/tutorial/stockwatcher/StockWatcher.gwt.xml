@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='stockwatcher'>
+  <inherits name="com.google.gwt.junit.JUnit"/>
+  <inherits name='com.google.gwt.user.User' />
+  <inherits name='com.google.gwt.user.theme.standard.Standard' />
+
+  <entry-point class='google.gwt.tutorial.stockwatcher.client.StockWatcher' />
+
+  <source path='client' />
+  <source path='shared' />
+</module>
